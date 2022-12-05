@@ -5,6 +5,9 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+      
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5315524478375942"
+     crossorigin="anonymous" />
           <script
             async
             src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
